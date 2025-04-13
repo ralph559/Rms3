@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>R’multi-services</title>
+</head>
+<body>
+  <h1>Bienvenue chez R’multi-services</h1>
+  <p>Faites l’expérience d’un nettoyage complet qui rafraîchira votre véhicule ou votre maison / bureau et lui conservera son meilleur aspect.</p>
+</body>
+</html>
