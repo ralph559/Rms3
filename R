@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>R’multi-services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #0dcaf0, #20c997);
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      padding: 40px 20px;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    header p {
+      font-size: 1.2em;
+    }
+
+    nav {
+      background-color: rgba(0, 0, 0, 0.6);
+      text-align: center;
+      padding: 10px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 30px 20px;
+      background-color: rgba(255, 255, 255, 0.1);
+      margin: 20px;
+      border-radius: 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    .whatsapp-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25d366;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: bold;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>R’multi-services</h1>
+    <p>Faites l’expérience d’un nettoyage complet qui rafraîchira votre véhicule ou votre maison / bureau et lui conservera son meilleur aspect.</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+    <a href="https://www.instagram.com" target="_blank">Instagram</a>
+    <a href="https://www.tiktok.com" target="_blank">TikTok</a>
+  </nav>
+
+  <section id="services">
+    <h2>Nos Services</h2>
+    <ul>
+      <li>Nettoyage textile (matelas, canapé, tapis…)</li>
+      <li>Nettoyage de véhicules (voiture, moto, bateau…)</li>
+      <li>Rénovation de phares</li>
+      <li>Location de matériel (aspirateur, nettoyeur vapeur, etc.)</li>
+      <li>Intervention à domicile, même sans eau/électricité</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Téléphone : 0696 898 428</p>
+    <p>Email : rmulti-services@outlook.com</p>
+  </section>
+
+  <footer>
+    &copy; 2025 R’multi-services — Tous droits réservés
+  </footer>
+
+  <a class="whatsapp-btn" href="https://wa.me/596696898428" target="_blank">WhatsApp</a>
+
+</body>
+</html>
